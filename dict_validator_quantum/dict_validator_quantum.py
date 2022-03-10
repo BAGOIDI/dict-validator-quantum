@@ -135,4 +135,3 @@ def validate(m, doc, path=''):
                 'found': found,
             })
     return result
-__version__ = 'dev'
