@@ -1,12 +1,10 @@
 from setuptools import setup
 
-from dict_validator_quantum import __version__
-
 setup(
     name='dict_validator_quantum',
-    version=__version__,
+    version= "0.0.1",
 
-    url='https://github.com/BAGOIDI/dict-validator-quantum.git',
+    url='https://github.com/BAGOIDI/dict_validator_quantum.git',
     author='BAGOIDI',
     author_email='abel.kofisallc@gmail.com',
 
