@@ -8,5 +8,5 @@ setup(
     author='BAGOIDI',
     author_email='abel.kofisallc@gmail.com',
 
-    py_modules=['dict_validator_quantum'],
+    packages=['dict_validator_quantum'],
 )
